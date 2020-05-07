@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MCM",
+    "C#C",
+    "MCM"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:stick"
+    },
+    "#": {
+      "item": "magi:magic_essense_block"
+    },
+    "M": {
+      "item": "magi:forged_iron"
+      }
+  },
+  "result": {
+    "item": "magi:block_sponge"
+  }
+}

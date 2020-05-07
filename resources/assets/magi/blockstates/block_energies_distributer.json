@@ -1,0 +1,13 @@
+{
+    "variants": 
+    {
+        "active=false,facing=north": { "model": "magi:stone_imbuer_off", "y":360 },
+        "active=false,facing=east": { "model": "magi:stone_imbuer_off", "y": 90 },
+        "active=false,facing=south": { "model": "magi:stone_imbuer_off", "y": 180 },
+        "active=false,facing=west": { "model": "magi:stone_imbuer_off", "y": 270 },
+        "active=true,facing=north": { "model": "magi:stone_imbuer_on", "y":360},
+        "active=true,facing=east": { "model": "magi:stone_imbuer_on", "y": 90 },
+        "active=true,facing=south": { "model": "magi:stone_imbuer_on", "y": 180 },
+        "active=true,facing=west": { "model": "magi:stone_imbuer_on", "y":270  }
+    }
+}

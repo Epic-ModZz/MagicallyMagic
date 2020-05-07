@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#R#",
+    "R#R",
+    "#R#"
+  ],
+  "key": {
+    "R": {
+      "item": "magi:magic_essense_block",
+      "data":0
+    },
+    "#": {
+      "item": "magi:magic_essense"
+    }
+  },
+  "result": {
+    "item": "magi:smooth_essense_block",
+    "count": 4
+  }
+}

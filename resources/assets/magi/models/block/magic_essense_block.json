@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "magi:blocks/magic_essense_block"
+   }
+}

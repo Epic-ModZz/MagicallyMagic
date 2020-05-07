@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MSM",
+    "MCM",
+    "###"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:crafting_table"
+    },
+    "#": {
+      "item": "magi:forged_iron"
+    },
+    "S": {
+      "item": "minecraft:stone_pressure_plate"
+      },
+    "M": {
+      "item": "magi:magic_essense"
+      }
+  },
+  "result": {
+    "item": "magi:basic_focus_block"
+  }
+}

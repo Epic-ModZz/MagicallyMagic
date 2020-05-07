@@ -1,0 +1,12 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "particle": "minecraft:blocks/furnace_top",
+        "up": "minecraft:blocks/furnace_top",
+        "down": "minecraft:blocks/furnace_top",
+        "north": "magi:blocks/stone_imbuer_on",
+        "east": "magi:blocks/stone_imbuer_on",
+        "south": "magi:blocks/stone_imbuer_on",
+        "west": "magi:blocks/stone_imbuer_on"
+    }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#R#",
+    "###"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:stone",
+      "data":0
+    },
+    "#": {
+      "item": "magi:magic_essense"
+    }
+  },
+  "result": {
+    "item": "magi:magic_essense_block"
+  }
+}

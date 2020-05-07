@@ -1,0 +1,35 @@
+item.shade.name=Ghastly Spirit
+item.jellied_blood.name=Jellied Blood
+item.magic_essense.name=Magical Essence
+item.awakened_spellbook.name=Awakened Spellbook
+item.encrypted_spellbook.name=Encrypted Spellbook
+item.orb_of_channeling.name=Orb Of Channeling
+
+item.caytalist.name=Magic Catalyst
+item.caytalist_air.name=Air Catalyst
+item.caytalist_earth.name=Earth Catalyst
+item.caytalist_blood.name=Blood Catalyst
+item.caytalist_water.name=Water Catalyst
+item.caytalist_shadow.name=Shadow Catalyst
+item.purified_magic_essense.name=Purified Magic Essence
+item.skyward_dagger.name=Skyward Dagger
+item.forged_iron.name=Forged Iron
+item.phase_orb.name=Phantom Orb
+
+item.core_of_deep_sorcery.name=Core of Deep Sorcery
+item.mechanism_of_deep_sorcery.name=Mechanism of Deep Sorcery
+
+tile.Paradoxite_Ore.name=Magic Dust Ore
+tile.Magic_Essense_Block.name=Energetic Stone
+tile.Block_Sponge.name=Focus Crafter Component
+tile.Basic_Focus_Block.name=Focus Crafter
+tile.caytalist_creator.name=Stone Infusion Device
+tile.Smooth_Essense_Block.name=Crystalized Magic Block
+tile.Block_Energies_Distributer=Stone Imbuer
+
+container.magic_sponge=Focus Crafting Components
+container.sintering_furnace_furnace=Stone Imbuer
+
+fluid.magical_solution=Magical Solution
+
+entity.Skybolt.name=SkyBolt
